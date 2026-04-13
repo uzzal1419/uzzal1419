@@ -1,37 +1,18 @@
-# Hi there, I'm uzzal1419 👋
-### MERN Stack Developer | Problem Solver | Tech Enthusiast
+# 💫 About Me:
+Hi 👋 I'm uzzal1419<br>I'm a MERN Stack Developer with hands-on experience in building real-world applications. I work with React, Node.js, Express, and MongoDB to create scalable, secure, and high-performance web solutions.<br>Authentication: Experienced in secure user flows using JWT.<br>Dashboards: Specialized in building multi-role Admin, Provider & Customer dashboards.<br>Backend: Building robust REST APIs and seamless third-party integrations.<br>Deployment: Skilled in PWA development and production-ready cloud deployments.<br>Currently focused on improving performance, optimizing builds, and learning modern architectures to build better digital products.
 
-<p align="left">
-  <img src="https://komarev.com[Your-GitHub-Username]&label=Profile%20views&color=0e75b6&style=flat" alt="Your-GitHub-Username" />
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1ATojcf4gn/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/uzzalhossan1419?igsh=aHR5cXB2eWt4dWk1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uzzal-hossan-660581241) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@uzzal1419) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://tiktok.com/@uzzalhossan90) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/uzzalhossa1419) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCbZxpiMvWZAHO4KTGCze_tA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:www.uzzalhossan1419@gmail.com) 
 
-### 🚀 About Me
-I'm a passionate **MERN Stack Developer** with a focus on building scalable, secure, and user-friendly web applications. I love turning complex ideas into clean, efficient code.
-
-- 🔭 I’m currently working on **Tip-Tracker-App**
-- 🌱 I’m currently learning **Next.js, TypeScript, and Docker**
-- 💬 Ask me about **React, Node.js, or REST APIs**
-- 📫 How to reach me: **uzzalhossan1419@gmail.com**
-- ⚡ Fun fact: I love optimizing builds for better performance!
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=uzzal1419&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=uzzal1419&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=uzzal1419&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=uzzal1419&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠 Tech Stack
-- **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Tools & Deployment:** Git, GitHub, JWT, Postman, Vercel/Render/Heroku
-
----
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://vercel.app[Your-GitHub-Username]&show_icons=true&theme=tokyonight)
-![Top Langs](https://vercel.app[Your-GitHub-Username]&layout=compact&theme=tokyonight)
-
----
-
-### 🤝 Connect with me:
-[<img src="https://shields.io" />](https://linkedin.com[Your-LinkedIn-Username])
-[<img src="https://shields.io" />](https://[Your-Portfolio-Link])
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
