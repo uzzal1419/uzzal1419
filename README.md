@@ -1,36 +1,37 @@
-## Hi there 👋
+# Hi there, I'm uzzal1419 👋
+### MERN Stack Developer | Problem Solver | Tech Enthusiast
 
-<!--
-**uzzal1419/uzzal1419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# আসসালামু আলাইকুম, আমি উজ্জ্বল হাসান 👋
-
-আমি একজন টেক এনথুজিয়াস্ট এবং অ্যাপ ডেভেলপার। আমি দৈনন্দিন জীবনের ছোট ছোট সমস্যার সমাধান করার জন্য বিভিন্ন ইউটিলিটি অ্যাপ তৈরি করতে পছন্দ করি।
-
-### 🛠 আমি যা যা নিয়ে কাজ করি:
-- **অ্যাপ ডেভেলপমেন্ট:** ছোট ও কার্যকর অ্যান্ড্রয়েড/ওয়েব অ্যাপ তৈরি করা।
-- **স্পেশালিটি:** হিসাব-নিকাশ সহজ করার জন্য ক্যালকুলেটর ও ট্র্যাকিং অ্যাপ।
-
-### 🚀 আমার উল্লেখযোগ্য প্রজেক্টসমূহ:
-- 📱 **টিপ ট্র্যাকার (Tip Tracker):** ব্যবহারকারীদের প্রতিদিনের টিপস বা বকশিশ ট্র্যাক করার সহজ সমাধান।
-- 💰 **ড্রাইভার ও মালিক কমিশন ক্যালকুলেটর:** পরিবহন খাতের ড্রাইভার এবং মালিকদের কমিশন নির্ভুলভাবে হিসাব করার টুল।
-- 📊 **ইউটিলিটি অ্যাপস:** দৈনন্দিন ব্যবহারের জন্য বিভিন্ন ছোট ছোট টুলস।
-
-### 📫 আমার সাথে যোগাযোগ করুন:
-- **LinkedIn:** [uzzal-hossan-660581241](https://linkedin.com/in/uzzal-hossan-660581241)
-- **Telegram:** [@Uzzalhossan2](https://t.me/Uzzalhossan2)
-- **YouTube:** [My Tech Channel](https://youtube.com/channel/UCbZxpiMvWZAHO4KTGCze_tA)
+<p align="left">
+  <img src="https://komarev.com[Your-GitHub-Username]&label=Profile%20views&color=0e75b6&style=flat" alt="Your-GitHub-Username" />
+</p>
 
 ---
-*নতুন কিছু শিখতে এবং ভ্রমণ করতে আমি খুব ভালোবাসি। আমার কাজের মাধ্যমে মানুষের ডিজিটাল অভিজ্ঞতা সহজ করাই আমার লক্ষ্য।*
+
+### 🚀 About Me
+I'm a passionate **MERN Stack Developer** with a focus on building scalable, secure, and user-friendly web applications. I love turning complex ideas into clean, efficient code.
+
+- 🔭 I’m currently working on **Tip-Tracker-App**
+- 🌱 I’m currently learning **Next.js, TypeScript, and Docker**
+- 💬 Ask me about **React, Node.js, or REST APIs**
+- 📫 How to reach me: **uzzalhossan1419@gmail.com**
+- ⚡ Fun fact: I love optimizing builds for better performance!
+
+---
+
+### 🛠 Tech Stack
+- **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Tools & Deployment:** Git, GitHub, JWT, Postman, Vercel/Render/Heroku
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://vercel.app[Your-GitHub-Username]&show_icons=true&theme=tokyonight)
+![Top Langs](https://vercel.app[Your-GitHub-Username]&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Connect with me:
+[<img src="https://shields.io" />](https://linkedin.com[Your-LinkedIn-Username])
+[<img src="https://shields.io" />](https://[Your-Portfolio-Link])
